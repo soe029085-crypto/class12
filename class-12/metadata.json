@@ -1,0 +1,6 @@
+{
+  "name": "Snow Bros Arena",
+  "description": "A real-time multiplayer platformer game where players compete for food and avoid bombs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
